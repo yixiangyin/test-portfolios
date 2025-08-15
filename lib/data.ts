@@ -85,7 +85,7 @@ export const projectsData = [
 ] as const;
 
 export const skillsData = [
-  "HTML",
+  "HTML5",
   "CSS",
   "JavaScript",
   "TypeScript",
