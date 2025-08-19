@@ -39,7 +39,7 @@ export const experiencesData = [
     title: "Graduated from ANU",
     location: "Canberra, ACT",
     description:
-      "I graduated from ANU with a Bachelor of Advanced Computing (Honours).",
+      "I graduated from the Australian National University with a Bachelor of Advanced Computing (Honours), specialising in Computer Systems and Architecture.",
     icon: React.createElement(LuGraduationCap),
     date: "Feb 2020 - Oct 2024",
   },
