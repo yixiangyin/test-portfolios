@@ -111,6 +111,7 @@ export const skillsData = [
   "React",
   // "Next.js",
   "Node.js",
+  "Vite",
   "Express",
   "Flutter",
   "Dart",
