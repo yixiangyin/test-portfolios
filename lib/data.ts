@@ -5,7 +5,6 @@ import { LuGraduationCap } from "react-icons/lu"
 import rattleImg from "@/public/rattle.png"
 import dashboardImg from "@/public/dashboard.png"
 import phonebookImg from "@/public/phonebook.png"
-import wordanalyticsImg from "@/public/wordanalytics.png"
 
 export const links = [
   {
